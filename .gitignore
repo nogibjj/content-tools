@@ -1,3 +1,5 @@
+#ignore media
+media
 #ignore huggingface
 summarizeApp
 #ignore fine-tuning
