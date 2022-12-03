@@ -1,5 +1,9 @@
+*.srt 
+*.txt 
+*.vtt
 #ignore media
 media
+completedmedia
 #ignore huggingface
 summarizeApp
 #ignore fine-tuning

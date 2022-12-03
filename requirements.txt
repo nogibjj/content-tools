@@ -37,5 +37,6 @@ torch==1.12.1
 torchvision==0.13.1
 #openai whisper
 git+https://github.com/openai/whisper.git 
-
+#data
+yake==0.4.8
 
