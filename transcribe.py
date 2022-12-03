@@ -6,6 +6,20 @@ import os
 import click
 import subprocess
 
+LANGUAGES = [
+    "English",
+    "Chinese",
+    "Spanish",
+    "Portuguese",
+    "Russian",
+    "French",
+    "German",
+    "Korean",
+    "Arabic",
+    "Vietnamese",
+    "Japanese",
+]
+
 # create a python function that returns files in a directory
 def get_files(directory):
     """get files in a directory"""
